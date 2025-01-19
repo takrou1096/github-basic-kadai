@@ -1,27 +1,30 @@
-commit f9e91124173cc07a006992ef3261130e21f3f6c3 (HEAD -> main, origin/main)
+Last login: Sun Jan 19 21:06:06 on ttys016
+user@USERnoMacBook-Pro ~ % cd /Users/user/Desktop/lesson/git_challnge
+user@USERnoMacBook-Pro git_challnge % mkdir git_challnge
+user@USERnoMacBook-Pro git_challnge % cd git_challnge
+user@USERnoMacBook-Pro git_challnge % git init
+Initialized empty Git repository in /Users/user/Desktop/lesson/git_challnge/git_challnge/.git/
+user@USERnoMacBook-Pro git_challnge % git add hello_world
+fatal: pathspec 'hello_world' did not match any files
+user@USERnoMacBook-Pro git_challnge % git add hello_world.txt
+user@USERnoMacBook-Pro git_challnge % git commit -m "ファイルを追加"
+[main (root-commit) 819fff8] ファイルを追加
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 hello_world.txt
+user@USERnoMacBook-Pro git_challnge % git add hello_world.txt
+user@USERnoMacBook-Pro git_challnge % git commit -m "こんにちは"を追加
+[main 07d3dc4] こんにちはを追加
+ 1 file changed, 2 insertions(+)
+user@USERnoMacBook-Pro git_challnge % git log
+commit 07d3dc44a78b0f68162503969ea564a125175c0c (HEAD -> main)
 Author: takurou Yonekura <takurou11009966@gmail.com>
-Date:   Sun Jan 19 17:37:47 2025 +0900
+Date:   Sun Jan 19 21:48:38 2025 +0900
 
-    日本語訳を追記
+    こんにちはを追加
 
-commit 9560794b950ca8203f920b807596dc8cc7d35f72
+commit 819fff8cf89fb4f9bba438ba38e160400223ef5f
 Author: takurou Yonekura <takurou11009966@gmail.com>
-Date:   Sun Jan 19 17:36:27 2025 +0900
+Date:   Sun Jan 19 21:46:58 2025 +0900
 
-    hello_world.txtを追加
-
-commit be450a93295a2f5f73f3452886da45e8a20abcd5
-commit f9e91124173cc07a006992ef3261130e21f3f6c3 (HEAD -> main, origin/main)
-Author: takurou Yonekura <takurou11009966@gmail.com>
-Date:   Sun Jan 19 17:37:47 2025 +0900
-
-    日本語訳を追記
-
-commit 9560794b950ca8203f920b807596dc8cc7d35f72
-Author: takurou Yonekura <takurou11009966@gmail.com>
-Date:   Sun Jan 19 17:36:27 2025 +0900
-
-    hello_world.txtを追加
-
-commit be450a93295a2f5f73f3452886da45e8a20abcd5
-:
+    ファイルを追加
+user@USERnoMacBook-Pro git_challnge % 
