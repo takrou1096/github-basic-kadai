@@ -1,11 +1,27 @@
-commit f7554a67980649b4280adc84fdd91b67e105894a (HEAD -> main)
+commit f9e91124173cc07a006992ef3261130e21f3f6c3 (HEAD -> main, origin/main)
 Author: takurou Yonekura <takurou11009966@gmail.com>
-Date:   Sun Jan 19 13:56:52 2025 +0900
+Date:   Sun Jan 19 17:37:47 2025 +0900
 
     日本語訳を追記
 
-commit cf9c60164bec24eb6dac704708e18217da86da73
+commit 9560794b950ca8203f920b807596dc8cc7d35f72
 Author: takurou Yonekura <takurou11009966@gmail.com>
-Date:   Sun Jan 19 13:54:50 2025 +0900
+Date:   Sun Jan 19 17:36:27 2025 +0900
 
     hello_world.txtを追加
+
+commit be450a93295a2f5f73f3452886da45e8a20abcd5
+commit f9e91124173cc07a006992ef3261130e21f3f6c3 (HEAD -> main, origin/main)
+Author: takurou Yonekura <takurou11009966@gmail.com>
+Date:   Sun Jan 19 17:37:47 2025 +0900
+
+    日本語訳を追記
+
+commit 9560794b950ca8203f920b807596dc8cc7d35f72
+Author: takurou Yonekura <takurou11009966@gmail.com>
+Date:   Sun Jan 19 17:36:27 2025 +0900
+
+    hello_world.txtを追加
+
+commit be450a93295a2f5f73f3452886da45e8a20abcd5
+:
