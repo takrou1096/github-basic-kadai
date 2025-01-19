@@ -1,0 +1,11 @@
+commit f7554a67980649b4280adc84fdd91b67e105894a (HEAD -> main)
+Author: takurou Yonekura <takurou11009966@gmail.com>
+Date:   Sun Jan 19 13:56:52 2025 +0900
+
+    日本語訳を追記
+
+commit cf9c60164bec24eb6dac704708e18217da86da73
+Author: takurou Yonekura <takurou11009966@gmail.com>
+Date:   Sun Jan 19 13:54:50 2025 +0900
+
+    hello_world.txtを追加
